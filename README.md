@@ -116,15 +116,15 @@ Creator of *Antigravity Board*, *BreezeIsland* (Z Flip 5), and *BreezeOS*.
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thanhphong28&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1&bg_color=0d1117&ring_color=38bdf8" alt="GitHub Stats" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=thanhphong28&show_icons=true&count_private=true&hide_border=true&title_color=38bdf8&icon_color=818cf8&text_color=cbd5e1&bg_color=00000000&ring_color=38bdf8" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://streak-stats.demolab.com/?user=thanhphong28&hide_border=true&background=0d1117&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=818cf8&dates=94a3b8" alt="GitHub Streak" />
+      <img width="100%" src="https://streak-stats.demolab.com/?user=thanhphong28&hide_border=true&background=00000000&stroke=1e293b&ring=38bdf8&fire=38bdf8&currStreakNum=f8fafc&sideNums=f8fafc&currStreakLabel=38bdf8&sideLabels=818cf8&dates=94a3b8" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphong28&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=0d1117" alt="Top Languages" />
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphong28&layout=compact&langs_count=8&hide_border=true&title_color=38bdf8&text_color=cbd5e1&bg_color=00000000" alt="Top Languages" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img width="100%" src="https://github-trophies.vercel.app/?username=thanhphong28&theme=tokyonight&no-bg=true&no-frame=true&row=2&column=3&margin-w=12&margin-h=8" alt="GitHub Trophies" />
