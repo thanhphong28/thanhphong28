@@ -1,0 +1,35 @@
+<svg width="450" height="176" viewBox="0 0 450 176" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="BreezeIsland — Native Dynamic Island for Samsung Galaxy Z Flip 5">
+  <defs>
+    <linearGradient id="iconBg2" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1F2937" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="topSheen2" x1="0" y1="0" x2="450" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="448" height="174" rx="14" fill="#121418" stroke="#272B33" stroke-width="1.2" />
+  <rect x="24" y="1.5" width="402" height="1" fill="url(#topSheen2)" />
+
+  <!-- Minimalist macOS App Icon: Dynamic Island Pill -->
+  <rect x="22" y="20" width="38" height="38" rx="10" fill="url(#iconBg2)" stroke="#2F3541" stroke-width="1" />
+  <rect x="29" y="34" width="24" height="10" rx="5" fill="#090B0E" stroke="#E6EDF3" stroke-width="1.3" />
+  <circle cx="47.5" cy="39" r="2" fill="#39D353" />
+
+  <!-- Category Pill -->
+  <rect x="316" y="26" width="112" height="24" rx="12" fill="#1B1F27" stroke="#2B313C" stroke-width="1" />
+  <text x="372" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" fill="#8B949E" letter-spacing="0.4">ANDROID NATIVE</text>
+
+  <!-- Title & Description -->
+  <text x="22" y="84" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif" font-size="17" font-weight="700" fill="#F0F6FC" letter-spacing="-0.2">BreezeIsland</text>
+  <text x="22" y="106" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif" font-size="12.8" fill="#8B949E">Native Dynamic Island for Samsung Galaxy Z Flip 5 (One UI 9)</text>
+  <text x="22" y="124" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif" font-size="12.8" fill="#8B949E">with spring physics — zero root &amp; zero accessibility services.</text>
+
+  <!-- Footer Divider & Meta -->
+  <line x1="22" y1="142" x2="428" y2="142" stroke="#1E232B" stroke-width="1" />
+  <circle cx="28" cy="158" r="4" fill="#A97BFF" />
+  <text x="38" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#9CA3AF">Kotlin  ·  Spring Physics</text>
+  <text x="428" y="162" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#E6EDF3">Repository →</text>
+</svg>

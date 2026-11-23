@@ -1,0 +1,37 @@
+<svg width="450" height="176" viewBox="0 0 450 176" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Breeze Boy Theme — Custom Antigravity IDE Theme">
+  <defs>
+    <linearGradient id="iconBg4" x1="0" y1="0" x2="40" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1F2937" />
+      <stop offset="100%" stop-color="#111827" />
+    </linearGradient>
+    <linearGradient id="topSheen4" x1="0" y1="0" x2="450" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0" />
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.12" />
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="448" height="174" rx="14" fill="#121418" stroke="#272B33" stroke-width="1.2" />
+  <rect x="24" y="1.5" width="402" height="1" fill="url(#topSheen4)" />
+
+  <!-- Minimalist macOS App Icon: Window Layers -->
+  <rect x="22" y="20" width="38" height="38" rx="10" fill="url(#iconBg4)" stroke="#2F3541" stroke-width="1" />
+  <rect x="30" y="30" width="22" height="18" rx="3" stroke="#E6EDF3" stroke-width="1.4" />
+  <circle cx="34.5" cy="34.5" r="1.3" fill="#FF5F56" />
+  <circle cx="38.5" cy="34.5" r="1.3" fill="#FFBD2E" />
+  <circle cx="42.5" cy="34.5" r="1.3" fill="#27C93F" />
+
+  <!-- Category Pill -->
+  <rect x="340" y="26" width="88" height="24" rx="12" fill="#1B1F27" stroke="#2B313C" stroke-width="1" />
+  <text x="384" y="42" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" font-weight="600" fill="#8B949E" letter-spacing="0.4">IDE THEME</text>
+
+  <!-- Title & Description -->
+  <text x="22" y="84" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', sans-serif" font-size="17" font-weight="700" fill="#F0F6FC" letter-spacing="-0.2">Breeze Boy Theme</text>
+  <text x="22" y="106" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif" font-size="12.8" fill="#8B949E">Custom Kakashi ANBU Live edition theme for Antigravity IDE</text>
+  <text x="22" y="124" font-family="-apple-system, BlinkMacSystemFont, 'SF Pro Text', 'Segoe UI', sans-serif" font-size="12.8" fill="#8B949E">with refined workspace styling &amp; a 1-click Windows installer.</text>
+
+  <!-- Footer Divider & Meta -->
+  <line x1="22" y1="142" x2="428" y2="142" stroke="#1E232B" stroke-width="1" />
+  <circle cx="28" cy="158" r="4" fill="#F1E05A" />
+  <text x="38" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="500" fill="#9CA3AF">JavaScript  ·  CSS3</text>
+  <text x="428" y="162" text-anchor="end" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" fill="#E6EDF3">Repository →</text>
+</svg>
