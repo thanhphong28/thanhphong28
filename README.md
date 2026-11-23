@@ -1,36 +1,117 @@
+<div align="center">
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3400&pause=1400&color=E6EDF3&vCenter=true&width=640&height=42&lines=Hi%2C+I'm+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+in+Ho+Chi+Minh+City;Building+clean+web+apps+%26+developer+tools" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3400&pause=1400&color=1F2328&vCenter=true&width=640&height=42&lines=Hi%2C+I'm+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+in+Ho+Chi+Minh+City;Building+clean+web+apps+%26+developer+tools" />
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=3400&pause=1400&color=E6EDF3&vCenter=true&width=640&height=42&lines=Hi%2C+I'm+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+in+Ho+Chi+Minh+City;Building+clean+web+apps+%26+developer+tools" alt="Hi, I'm Thanh Phong (Breeze Boy)" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3400&pause=1400&color=E6EDF3&center=true&vCenter=true&width=720&height=46&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+%40+315+Medical;Building+fast+web+apps+%26+developer+tools" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3400&pause=1400&color=1F2328&center=true&vCenter=true&width=720&height=46&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+%40+315+Medical;Building+fast+web+apps+%26+developer+tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=26&duration=3400&pause=1400&color=E6EDF3&center=true&vCenter=true&width=720&height=46&lines=Hi%2C+I'm+Nguy%E1%BB%85n+Thanh+Phong+(Breeze+Boy);Frontend+Software+Engineer+%40+315+Medical;Building+fast+web+apps+%26+developer+tools" alt="Hi, I'm Nguyễn Thanh Phong (Breeze Boy)" />
 </picture>
 
-I'm **Nguyễn Thanh Phong** (*Breeze Boy*), a Frontend Software Engineer at **315 Medical**, where I design and maintain the EMR platform serving ~200 clinics across Vietnam.
-
-Previously, I led a 5-engineer team at **VNA Group** building an occupational safety platform with Next.js & NestJS, and completed my B.Eng. in Software Engineering at **Saigon University (SGU)**. Outside of work, I enjoy crafting focused web apps, developer plugins, and native Android utilities.
+<p>
+  <sub>Frontend Software Engineer · Ho Chi Minh City, Vietnam · B.Eng. Software Engineering (SGU)</sub>
+</p>
 
 <p>
-  <a href="https://thanhphong28.github.io/"><img src="https://img.shields.io/badge/Portfolio-thanhphong.dev-21262d?style=flat-square&logo=safari&logoColor=e6edf3" alt="Portfolio" /></a>&nbsp;<a href="mailto:777thanhphong@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=flat-square&logo=gmail&logoColor=e6edf3" alt="Email" /></a>&nbsp;<a href="https://www.facebook.com/breezeboy281/"><img src="https://img.shields.io/badge/Facebook-21262d?style=flat-square&logo=facebook&logoColor=e6edf3" alt="Facebook" /></a>&nbsp;<a href="https://www.instagram.com/breezeboy.777"><img src="https://img.shields.io/badge/Instagram-21262d?style=flat-square&logo=instagram&logoColor=e6edf3" alt="Instagram" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCfE5dCYT9qLvIP8dM07bSCw"><img src="https://img.shields.io/badge/YouTube-21262d?style=flat-square&logo=youtube&logoColor=e6edf3" alt="YouTube" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=thanhphong28&label=Views&color=238636&style=flat-square" alt="Profile Views" />
+  <a href="https://thanhphong28.github.io/"><img src="https://img.shields.io/badge/Portfolio-thanhphong.dev-238636?style=flat-square&logo=safari&logoColor=white" alt="Portfolio" /></a>&nbsp;<a href="mailto:777thanhphong@gmail.com"><img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=ea4335" alt="Email" /></a>&nbsp;<a href="https://www.facebook.com/breezeboy281/"><img src="https://img.shields.io/badge/Facebook-161b22?style=flat-square&logo=facebook&logoColor=1877f2" alt="Facebook" /></a>&nbsp;<a href="https://www.instagram.com/breezeboy.777"><img src="https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=e4405f" alt="Instagram" /></a>&nbsp;<a href="https://www.youtube.com/channel/UCfE5dCYT9qLvIP8dM07bSCw"><img src="https://img.shields.io/badge/YouTube-161b22?style=flat-square&logo=youtube&logoColor=ff0000" alt="YouTube" /></a>&nbsp;<img src="https://komarev.com/ghpvc/?username=thanhphong28&label=Views&color=238636&style=flat-square" alt="Profile Views" />
 </p>
+
+</div>
 
 ---
 
-### Selected Projects
+### About Me
 
-| Project | What it does | Tech |
-| :--- | :--- | :--- |
-| **[Antigravity Board](https://github.com/thanhphong28/antigravity-board)** | Local analytics dashboard for Google Antigravity — session time, token usage, estimated cost & 12-week heatmap. | `JavaScript` `Plugin` |
-| **[BreezeIsland](https://github.com/thanhphong28/BreezeIsland)** | Native Dynamic Island for Samsung Galaxy Z Flip 5 (One UI 9) with spring physics — zero root & zero accessibility. | `Kotlin` `Android` |
-| **[Couple Schedule](https://schedule-couple.vercel.app/)** | Real-time synced daily planner built for fast, native-like responsiveness ([source](https://github.com/thanhphong28/schedule-couple)). | `React 19` `Vite` `Supabase` |
-| **[Breeze Boy Theme](https://github.com/thanhphong28/antigravity-breeze-boy-theme)** | Custom Antigravity IDE theme with a 1-click Windows installer. | `JavaScript` `CSS` |
+<table width="100%">
+  <tr>
+    <td width="52%" valign="top">
+
+```ts
+const breezeBoy = {
+  name: "Nguyễn Thanh Phong",
+  role: "Frontend Software Engineer",
+  company: "315 Medical (~200 clinics)",
+  education: "Saigon University (SGU)",
+  location: "Ho Chi Minh City, VN",
+  focus: [
+    "React / Next.js Architecture",
+    "UI/UX & Web Performance",
+    "Developer Tools & Android",
+  ],
+  philosophy: "Code that creates value",
+};
+```
+
+  </td>
+    <td width="48%" valign="top">
+
+**Experience & Background**
+
+**315 Medical** &nbsp;<sub>`03/2026 — Present`</sub><br/>
+<sub>Frontend Developer · Architecting & maintaining core EMR modules serving ~200 clinics daily.</sub>
+
+**VNA Group** &nbsp;<sub>`2025`</sub><br/>
+<sub>Frontend Intern & Team Lead · Led 5 engineers building a provincial safety system (Next.js / NestJS).</sub>
+
+**Saigon University (SGU)** &nbsp;<sub>`2021 — 2026`</sub><br/>
+<sub>B.Eng. in Software Engineering · DSA, OOP, System Design.</sub>
+
+**Certifications**<br/>
+<sub>Google UX Design · Google AI Essentials · TOEIC</sub>
+
+  </td>
+  </tr>
+</table>
+
+---
+
+### Featured Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/thanhphong28/antigravity-board">Antigravity Board</a></strong> &nbsp;<sub><code>DevTool Plugin</code></sub></p>
+      <p>Local analytics dashboard for Google Antigravity — tracking agent sessions, tokens, estimated cost &amp; 12-week heatmap.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/BreezeAI-161b22?style=flat-square&logo=github&logoColor=e6edf3" alt="BreezeAI" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/thanhphong28/BreezeIsland">BreezeIsland</a></strong> &nbsp;<sub><code>Android Native</code></sub></p>
+      <p>Native Dynamic Island for Samsung Galaxy Z Flip 5 (One UI 9) with spring physics — zero root &amp; zero accessibility.</p>
+      <p><img src="https://img.shields.io/badge/Kotlin-161b22?style=flat-square&logo=kotlin&logoColor=7f52ff" alt="Kotlin" />&nbsp;<img src="https://img.shields.io/badge/Android-161b22?style=flat-square&logo=android&logoColor=3ddc84" alt="Android" /></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/thanhphong28/schedule-couple">Couple Schedule</a></strong> &nbsp;<sub><code>Web App</code></sub> · <a href="https://schedule-couple.vercel.app/">Live Demo →</a></p>
+      <p>Real-time synced daily planner built for fast, native-like responsiveness, clean client-server state &amp; instant sync.</p>
+      <p><img src="https://img.shields.io/badge/React_19-161b22?style=flat-square&logo=react&logoColor=61dafb" alt="React 19" />&nbsp;<img src="https://img.shields.io/badge/Vite-161b22?style=flat-square&logo=vite&logoColor=646cff" alt="Vite" />&nbsp;<img src="https://img.shields.io/badge/Supabase-161b22?style=flat-square&logo=supabase&logoColor=3ecf8e" alt="Supabase" /></p>
+    </td>
+    <td width="50%" valign="top">
+      <p><strong><a href="https://github.com/thanhphong28/antigravity-breeze-boy-theme">Breeze Boy Theme</a></strong> &nbsp;<sub><code>IDE Theme</code></sub></p>
+      <p>Signature Kakashi ANBU Live custom theme for Antigravity IDE featuring refined UI accents and a 1-click Windows installer.</p>
+      <p><img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=f7df1e" alt="JavaScript" />&nbsp;<img src="https://img.shields.io/badge/CSS3-161b22?style=flat-square&logo=css3&logoColor=1572b6" alt="CSS3" /></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### Stack & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" alt="Frontend Stack" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,supabase,mysql,figma" alt="Backend, Mobile & Design Stack" />
-</p>
+<div align="center">
+
+<sub><strong>Frontend &amp; UI</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite" alt="Frontend and UI Stack" />
+
+<br/><br/>
+
+<sub><strong>Backend, Mobile &amp; Databases</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,java,php,supabase,mysql" alt="Backend, Mobile and Databases" />
+
+<br/><br/>
+
+<sub><strong>Cloud, Dev &amp; Design Tools</strong></sub><br/>
+<img src="https://skillicons.dev/icons?i=vercel,git,github,postman,figma,ps,pr,vscode,androidstudio" alt="Cloud, Dev and Design Tools" />
+
+</div>
 
 ---
 
@@ -81,4 +162,6 @@ Previously, I led a 5-engineer team at **VNA Group** building an occupational sa
 
 ---
 
-<sub>Always happy to chat about frontend architecture, UI craft, or interesting ideas — reach out at <a href="mailto:777thanhphong@gmail.com">777thanhphong@gmail.com</a>.</sub>
+<p align="center">
+  <sub>Always happy to chat about frontend architecture, UI craft, or interesting ideas — reach out at <a href="mailto:777thanhphong@gmail.com">777thanhphong@gmail.com</a>.</sub>
+</p>
