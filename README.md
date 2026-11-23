@@ -28,16 +28,8 @@ Previously, I led a 5-engineer team at **VNA Group** building an occupational sa
 ### Stack & Tools
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=light" />
-    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css&theme=dark" alt="Frontend Stack" />
-  </picture><br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,supabase,mysql,figma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,supabase,mysql,figma&theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,supabase,mysql,figma&theme=dark" alt="Backend, Mobile & Design Stack" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,vite,html,css" alt="Frontend Stack" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,supabase,mysql,figma" alt="Backend, Mobile & Design Stack" />
 </p>
 
 ---
