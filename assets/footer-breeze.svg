@@ -1,0 +1,23 @@
+<svg width="900" height="68" viewBox="0 0 900 68" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Crafted with precision by Nguyễn Thanh Phong (Breeze Boy)">
+  <defs>
+    <linearGradient id="fBg" x1="0" y1="0" x2="900" y2="68" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0A0F1E" />
+      <stop offset="50%" stop-color="#0D1117" />
+      <stop offset="100%" stop-color="#0F172A" />
+    </linearGradient>
+    <linearGradient id="fLine" x1="0" y1="0" x2="900" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="35%" stop-color="#38BDF8" stop-opacity="0.85" />
+      <stop offset="65%" stop-color="#818CF8" stop-opacity="0.85" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="66" rx="12" fill="url(#fBg)" stroke="#1E293B" stroke-width="1.2" />
+  <rect x="120" y="65.5" width="660" height="2" rx="1" fill="url(#fLine)" />
+  <text x="450" y="31" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#E2E8F0">
+    Crafted with precision by <tspan fill="#38BDF8">Nguyễn Thanh Phong</tspan> (Breeze Boy)
+  </text>
+  <text x="450" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" font-weight="500" fill="#64748B" letter-spacing="0.6">
+    CLEAN ARCHITECTURE · PIXEL-PERFECT UI · PRODUCT-MINDED ENGINEERING
+  </text>
+</svg>
