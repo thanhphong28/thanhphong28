@@ -34,22 +34,14 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 ### Stack & Tools
 
-<div align="center">
+<p align="center"><sub><strong>Frontend &amp; UI</strong></sub></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite" alt="Frontend and UI Stack" /></p>
 
-<sub><strong>Frontend &amp; UI</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,bootstrap,vite" alt="Frontend and UI Stack" />
+<p align="center"><sub><strong>Backend, Mobile &amp; Databases</strong></sub></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,java,php,supabase,mysql" alt="Backend, Mobile and Databases" /></p>
 
-<br/><br/>
-
-<sub><strong>Backend, Mobile &amp; Databases</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,dotnet,cs,kotlin,java,php,supabase,mysql" alt="Backend, Mobile and Databases" />
-
-<br/><br/>
-
-<sub><strong>Cloud, Dev &amp; Design Tools</strong></sub><br/>
-<img src="https://skillicons.dev/icons?i=vercel,git,github,postman,figma,ps,pr,vscode,androidstudio" alt="Cloud, Dev and Design Tools" />
-
-</div>
+<p align="center"><sub><strong>Cloud, Dev &amp; Design Tools</strong></sub></p>
+<p align="center"><img src="https://skillicons.dev/icons?i=vercel,git,github,postman,figma,ps,pr,vscode,androidstudio" alt="Cloud, Dev and Design Tools" /></p>
 
 <br/>
 
@@ -59,11 +51,11 @@
 ### GitHub Overview
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thanhphong28&show_icons=true&count_private=true&border_radius=12&title_color=e6edf3&icon_color=39d353&text_color=8b949e&bg_color=121418&border_color=272b33&ring_color=39d353" alt="GitHub Stats" />&nbsp;<img width="49%" src="https://streak-stats.demolab.com/?user=thanhphong28&border_radius=12&background=121418&border=272b33&stroke=272b33&ring=39d353&fire=39d353&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
+  <img height="164" src="https://github-readme-stats.vercel.app/api?username=thanhphong28&theme=github_dark&show_icons=true&count_private=true&border_radius=12&title_color=e6edf3&icon_color=39d353&text_color=c9d1d9&bg_color=121418&border_color=272b33&ring_color=39d353" alt="GitHub Stats" />&nbsp;<img height="164" src="https://streak-stats.demolab.com/?user=thanhphong28&border_radius=12&background=121418&border=272b33&stroke=272b33&ring=39d353&fire=39d353&currStreakNum=e6edf3&sideNums=e6edf3&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphong28&layout=compact&langs_count=8&border_radius=12&title_color=e6edf3&text_color=8b949e&bg_color=121418&border_color=272b33" alt="Top Languages" />&nbsp;<img width="52%" src="https://github-trophies.vercel.app/?username=thanhphong28&theme=gitdimmed&no-bg=true&no-frame=false&row=2&column=3&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img height="196" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhphong28&theme=github_dark&layout=compact&langs_count=8&border_radius=12&title_color=e6edf3&text_color=c9d1d9&bg_color=121418&border_color=272b33" alt="Top Languages" />&nbsp;<img height="196" src="https://github-trophies.vercel.app/?username=thanhphong28&theme=gitdimmed&no-bg=true&no-frame=true&row=2&column=3&margin-w=12&margin-h=8" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
