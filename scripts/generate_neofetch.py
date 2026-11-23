@@ -80,21 +80,23 @@ def render_svg() -> str:
     uptime = compute_uptime(ACCOUNT_CREATED, today_vn)
     synced = today_vn.strftime("%Y-%m-%d")
 
-    # Build TrueColor ASCII portrait lines
-    ascii_els = []
-    start_y = 92.0
-    line_h = 13.0
-    for r_idx, spans in enumerate(portrait["grid"]):
-        y = start_y + r_idx * line_h
-        tspans = []
-        for text, color in spans:
-            esc = html.escape(text).replace(" ", "&#160;")
-            if color:
-                tspans.append(f'<tspan fill="{color}">{esc}</tspan>')
-            else:
-                tspans.append(f"<tspan>{esc}</tspan>")
-        ascii_els.append(f'    <text x="26" y="{y:.1f}" class="ascii">{"".join(tspans)}</text>')
-    ascii_block = "\n".join(ascii_els)
+    # Build crisp TrueColor Terminal Pixel-Block Portrait (chafa / kitty neofetch style)
+    portrait_els = [
+        '    <rect x="30" y="84" width="316" height="316" rx="10" fill="#1A1E26" stroke="#272C36" stroke-width="1" />'
+    ]
+    cell = 6.8
+    ox = 38.4
+    oy = 92.4
+    for r_idx, runs in enumerate(portrait["rows_out"]):
+        py = oy + r_idx * cell
+        for col, span_len, color in runs:
+            px = ox + col * cell
+            pw = span_len * cell + 0.25
+            ph = cell + 0.25
+            portrait_els.append(
+                f'    <rect x="{px:.1f}" y="{py:.1f}" width="{pw:.1f}" height="{ph:.1f}" fill="{color}" />'
+            )
+    ascii_block = "\n".join(portrait_els)
 
     # Right column neofetch rows
     info_rows = [
