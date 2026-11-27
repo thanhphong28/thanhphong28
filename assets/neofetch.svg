@@ -67,7 +67,7 @@
 
     <!-- Window Title -->
     <text x="460" y="23" text-anchor="middle" class="titlebar">breezeboy@macbook-pro — zsh — neofetch</text>
-    <text x="896" y="23" text-anchor="end" class="mono" style="font-size:10.5px" fill="#484F58">synced 2026-11-26</text>
+    <text x="896" y="23" text-anchor="end" class="mono" style="font-size:10.5px" fill="#484F58">synced 2026-11-27</text>
 
     <!-- Shell Command Line -->
     <text x="26" y="66" class="mono">
@@ -759,9 +759,9 @@
     <text x="394" y="220.6" class="mono fade" style="animation-delay:0.56s"><tspan class="key">Certs&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val">Google UX Design · Google AI · TOEIC</tspan></text>
     <text x="394" y="238.4" class="mono fade" style="animation-delay:0.61s"><tspan class="key">Location&#160;&#160;&#160;</tspan><tspan class="val">Ho Chi Minh City, Vietnam (GMT+7)</tspan></text>
     <text x="394" y="267.0" class="mono sub fade" style="animation-delay:0.70s">── Live GitHub Telemetry ───────────────────────</text>
-    <text x="394" y="284.8" class="mono fade" style="animation-delay:0.74s"><tspan class="key">Uptime&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val-hi">4y 7m 23d  (since Apr 2022)</tspan></text>
+    <text x="394" y="284.8" class="mono fade" style="animation-delay:0.74s"><tspan class="key">Uptime&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val-hi">4y 7m 24d  (since Apr 2022)</tspan></text>
     <text x="394" y="302.6" class="mono fade" style="animation-delay:0.79s"><tspan class="key">Repos&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val">15 public  ·  15 total</tspan></text>
-    <text x="394" y="320.4" class="mono fade" style="animation-delay:0.83s"><tspan class="key">Activity&#160;&#160;&#160;</tspan><tspan class="val-hi">172 contributions (past 12 months)</tspan></text>
+    <text x="394" y="320.4" class="mono fade" style="animation-delay:0.83s"><tspan class="key">Activity&#160;&#160;&#160;</tspan><tspan class="val-hi">183 contributions (past 12 months)</tspan></text>
     <text x="394" y="338.2" class="mono fade" style="animation-delay:0.88s"><tspan class="key">Stack&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val">React · Next.js · TypeScript · NestJS · Kotlin</tspan></text>
     <text x="394" y="356.0" class="mono fade" style="animation-delay:0.92s"><tspan class="key">Web&#160;&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="val">thanhphong28.github.io</tspan></text>
 
